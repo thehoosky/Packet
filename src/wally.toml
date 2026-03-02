@@ -1,0 +1,11 @@
+[package]
+name = "thehoosky/packet"
+description = "5uphi packet - might contain custom types"
+license = "MIT"
+authors = ["5uphi"]
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = ["aftman.toml"]
+
+[dependencies]
