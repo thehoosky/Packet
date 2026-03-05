@@ -1,5 +1,5 @@
 {
-    "name": "replica",
+    "name": "packet",
     "tree": {
         "$path": "src"
     }
